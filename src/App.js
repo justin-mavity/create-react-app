@@ -69,7 +69,7 @@ class App extends React.Component {
   };
 
   componentDidMount() {
-    this.fetchUsers("djviodes");
+    this.fetchUsers("justin-mavity");
   }
 
   fetchUsers = (user) => {
